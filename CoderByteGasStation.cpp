@@ -1,7 +1,6 @@
 #define __USE_MINGW_ANSI_STDIO 0
 #include <iostream>
 #include <sstream>
-//#include <tuple>
 #include <string>
 
 #define arrSize(arr) (sizeof((arr))/sizeof((arr)[0])) // Creating an easy way to get the size of an array for passing to functions
